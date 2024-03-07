@@ -4,7 +4,7 @@ RUN apk add --no-cache git
 
 RUN git clone https://github.com/FyreArizen/ULTIMATEMATHGOD.git
 
-WORKDIR /ULTIMATEMATHGOD
+WORKDIR /UltimaGodTierMathHelper
 
 RUN npm install
 
