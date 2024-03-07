@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: <MathHelper>
+    name: MathHelper
     env: docker
     plan: free
